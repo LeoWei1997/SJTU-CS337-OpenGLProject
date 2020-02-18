@@ -1,0 +1,1516 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.3 x64 6.3.5.8307
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl vehiclelights__01
+Ka 0 1 0.780392
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+d 0.97
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__256
+Ka 0 1 0.780392
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+d 0.97
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__257
+Ka 0 1 0.780392
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+d 0.97
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__258
+Ka 0 1 0.780392
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+d 0.97
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__259
+Ka 0 1 0.780392
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+d 0.97
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Explorer_Default
+Ka 0.117647 0.117647 0.117647
+Kd 0.752941 0.752941 0.752941
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl vehiclelights05
+Ka 1 0.231373 0
+Kd 1 1 1
+Ks 0.816784 0.601333 0.53702
+illum 2
+Ns 68.5935
+d 0.54
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_plastic
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_plastic2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 48.5029
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_alu_brus01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_alu_brushed.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl leather2_stichi01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd leather2_stiching.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp02
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.85
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lcd
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd lcd.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Chrome
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.87451 0.87451 0.87451
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_plastic0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_plastic2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp010
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 48.5029
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_alu_brus010
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_alu_brushed.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_carpet_c01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_carpet_charcoal.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl leather_costum01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd leather_costum.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl leather2_stichi010
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd leather2_stiching.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_plastic1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_plastic2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp011
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 48.5029
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_alu_brus011
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_alu_brushed.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl leather_costum010
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd leather_costum.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl leather2_stichi011
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd leather2_stiching.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp020
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.85
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lcd0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd lcd.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp021
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.85
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal0
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl remap
+Ka 0.517647 0.682353 0.168627
+Kd 0.517647 0.682353 0.168627
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Glass
+Ka 0.0588235 0.105882 0.141176
+Kd 0.0588235 0.105882 0.141176
+Ks 0.99 0.99 0.99
+illum 2
+Ns 17.1484
+d 0.38
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl HL_Glass
+Ka 0.152941 0.152941 0.152941
+Kd 0.152941 0.152941 0.152941
+Ks 0.99 0.99 0.99
+illum 2
+Ns 24.2515
+d 0.38
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte__ffffff01
+Ka 0.717647 0.584314 0.352941
+Kd 0.717647 0.584314 0.352941
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte__ff02
+Ka 0.141176 0.141176 0.141176
+Kd 0.141176 0.141176 0.141176
+Ks 0.99 0.99 0.99
+illum 2
+Ns 27.8576
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal1
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl remap0
+Ka 0.517647 0.682353 0.168627
+Kd 0.517647 0.682353 0.168627
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Chrome0
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.87451 0.87451 0.87451
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl grill_lower
+Ka 0.419608 0.419608 0.419608
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd grill_lower_side.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl side_one
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 5.27803
+map_Kd side_one.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl side_two
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd side_two.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl engine
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd engine.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl car_chassis
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd car_chassis.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_plastic2
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_plastic2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal2
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte__02
+Ka 0.211765 0.211765 0.211765
+Kd 0.211765 0.211765 0.211765
+Ks 0.99 0.99 0.99
+illum 2
+Ns 68.5935
+d 0.8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Glass0
+Ka 0.0588235 0.105882 0.141176
+Kd 0.0588235 0.105882 0.141176
+Ks 0.99 0.99 0.99
+illum 2
+Ns 17.1484
+d 0.38
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl vehiclelights__010
+Ka 0 1 0.780392
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+d 0.97
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal3
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl remap1
+Ka 0.517647 0.682353 0.168627
+Kd 0.517647 0.682353 0.168627
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl grill_front
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd grill_front.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl car_chassis0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd car_chassis.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl logo_neu
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd logo_neu.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal4
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl remap2
+Ka 0.517647 0.682353 0.168627
+Kd 0.517647 0.682353 0.168627
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Chrome1
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.87451 0.87451 0.87451
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl grill_rear__spe01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd grill_rear.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl vehiclelights__011
+Ka 0 1 0.780392
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 22.6274
+d 0.97
+map_Kd vehiclelights.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl carpback__spec_01
+Ka 0.709804 0.709804 0.709804
+Kd 0.709804 0.709804 0.709804
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__260
+Ka 0.709804 0.709804 0.709804
+Kd 0.709804 0.709804 0.709804
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__261
+Ka 0.709804 0.709804 0.709804
+Kd 0.709804 0.709804 0.709804
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal5
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl remap3
+Ka 0.517647 0.682353 0.168627
+Kd 0.517647 0.682353 0.168627
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Chrome2
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.87451 0.87451 0.87451
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_plastic3
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_plastic2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp012
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 48.5029
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_alu_brus012
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_alu_brushed.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl leather_costum011
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd leather_costum.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp022
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.85
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Glass1
+Ka 0.0588235 0.105882 0.141176
+Kd 0.0588235 0.105882 0.141176
+Ks 0.99 0.99 0.99
+illum 2
+Ns 17.1484
+d 0.38
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal6
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl remap4
+Ka 0.517647 0.682353 0.168627
+Kd 0.517647 0.682353 0.168627
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Chrome3
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.87451 0.87451 0.87451
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_plastic4
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_plastic2.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aventador_lp013
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 48.5029
+map_Kd aventador_lp700_cockpit1.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl common_alu_brus013
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd common_alu_brushed.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl leather_costum012
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd leather_costum.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Glass2
+Ka 0.0588235 0.105882 0.141176
+Kd 0.0588235 0.105882 0.141176
+Ks 0.99 0.99 0.99
+illum 2
+Ns 17.1484
+d 0.38
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal7
+Ka 0.145098 0.145098 0.145098
+Kd 0.145098 0.145098 0.145098
+Ks 0.99 0.99 0.99
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte__ffffff010
+Ka 0.717647 0.584314 0.352941
+Kd 0.717647 0.584314 0.352941
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lambo_brake_
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.8
+map_Kd lambo_brake.tga
+map_bump 
+bump 
+map_opacity lambo_brake.tga
+map_d lambo_brake.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte__ffffff011
+Ka 0.717647 0.584314 0.352941
+Kd 0.717647 0.584314 0.352941
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lambo_brake_0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.8
+map_Kd lambo_brake.tga
+map_bump 
+bump 
+map_opacity lambo_brake.tga
+map_d lambo_brake.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte__ffffff012
+Ka 0.717647 0.584314 0.352941
+Kd 0.717647 0.584314 0.352941
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lambo_brake_1
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.8
+map_Kd lambo_brake.tga
+map_bump 
+bump 
+map_opacity lambo_brake.tga
+map_d lambo_brake.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matte__ffffff013
+Ka 0.717647 0.584314 0.352941
+Kd 0.717647 0.584314 0.352941
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lambo_brake_2
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+d 0.8
+map_Kd lambo_brake.tga
+map_bump 
+bump 
+map_opacity lambo_brake.tga
+map_d lambo_brake.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Chrome4
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.87451 0.87451 0.87451
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl logo_neu0
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd logo_neu.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome5
+Ka 0.364706 0.364706 0.364706
+Kd 0.364706 0.364706 0.364706
+Ks 0.99 0.99 0.99
+illum 2
+Ns 6.9644
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl brakedisc
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 8.57419
+map_Kd brakedisc.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl goodyear_tire01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd goodyear_tire.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl goodyear_sidewa01
+Ka 0.8 0.8 0.8
+Kd 1 1 1
+Ks 0.99 0.99 0.99
+illum 2
+Ns 63.7064
+map_Kd goodyear_sidewall.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
